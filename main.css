@@ -1,0 +1,37 @@
+.container {
+    width: 90%;
+    margin: auto 3rem;
+}
+.flex {
+    width: 100%;
+    display: flex;
+} 
+.flex-center {
+    justify-content: center;
+    align-items: center;
+}
+
+.text-center {
+    text-align: center;
+}
+.text-lg {
+    font-size: 2rem;
+}
+.text-xxl {
+    font-size: 5rem!important;
+}
+.text-gigantic {
+    font-size: 10rem!important;
+}
+.pa-sm {
+    padding: .5rem!important;
+}
+.ma-sm {
+    margin: .5rem!important;
+}
+.mt-xl {
+    margin-top: 2rem!important;
+}
+.mt-xxl {
+    margin-top: 3rem!important;
+}
